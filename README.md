@@ -1,1 +1,1 @@
-# -SixFeetBetween_WWDC22SwiftChallenge
+# SixFeetBetween_WWDC22SwiftChallenge
