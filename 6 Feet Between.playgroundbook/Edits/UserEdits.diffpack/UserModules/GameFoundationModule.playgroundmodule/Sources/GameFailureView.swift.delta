@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Diff</key>
+	<array>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>2</string>
+			<key>ModifiedRange</key>
+			<string>{38, 1}</string>
+			<key>OriginalContent</key>
+			<string>0</string>
+			<key>OriginalRange</key>
+			<string>{38, 1}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>//  Created by Ritam Debanth on 11/4/22.
+//  Copyright © 2022 Ritam. All rights reserved.
+</string>
+			<key>ModifiedRange</key>
+			<string>{57, 90}</string>
+			<key>OriginalContent</key>
+			<string>//  Created by Tony Tang on 5/13/20.
+//  Copyright © 2020 TonyTang. All rights reserved.
+</string>
+			<key>OriginalRange</key>
+			<string>{57, 89}</string>
+		</dict>
+	</array>
+	<key>File</key>
+	<string>UserModules/GameFoundationModule.playgroundmodule/Sources/GameFailureView.swift</string>
+</dict>
+</plist>
